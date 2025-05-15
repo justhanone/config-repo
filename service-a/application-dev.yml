@@ -1,1 +1,3 @@
+service:
+  name: "Hello from dev profile"
 
